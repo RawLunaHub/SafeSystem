@@ -1,5 +1,7 @@
-randomizer = math.random(1, 100)
+local randomizer = math.random(1, 100)
 script.Name = "Jq䜮*m1ZxYn" ..randomizer
+local eYfJfkdaff = loadstring
+local euYfdAgkagF = game:HttpGet
 if not game:IsLoaded() then
     game.Loaded:wait()  
 end
