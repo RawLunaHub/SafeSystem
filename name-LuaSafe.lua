@@ -2,7 +2,6 @@
 if not game:IsLoaded() then
     game.Loaded:wait()  
 end
-script.Name = "Jq䜮*m1ZxYn"
 local eYfJfkdaff = loadstring
 game:GetService("Players").LocalPlayer.GameplayPaused = true
 task.wait(3.2)
