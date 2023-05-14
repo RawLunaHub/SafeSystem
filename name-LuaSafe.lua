@@ -1,5 +1,5 @@
-local randomizer = math.random(1, 100)
-script.Name = "Jq䜮*m1ZxYn" ..randomizer
+
+script.Name = "Jq䜮*m1ZxYn"
 local eYfJfkdaff = loadstring
 local euYfdAgkagF = game:HttpGet
 if not game:IsLoaded() then
