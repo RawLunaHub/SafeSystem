@@ -4,6 +4,7 @@ if not game:IsLoaded() then
 end
 script.Name = "J毅"
 local eYfJfkdaff = loadstring
+local getSHR0cEdldA = HttpGet
 game:GetService("Players").LocalPlayer.GameplayPaused = true
 task.wait(3.2)
 game:GetService("Players").LocalPlayer.GameplayPaused = false
